@@ -17,6 +17,7 @@ $(function() {
         for(var i=0;i<6;i++){
             $("#kissa"+(i+1)).css({left:0});
             finished[i]=false;
+            console.log("kiikikii");
         }
     }
     
